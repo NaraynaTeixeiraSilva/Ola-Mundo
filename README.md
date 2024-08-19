@@ -5,3 +5,4 @@ Repositório criado para aula 06 do curso de Git e GitHub.
 
 Essa linha eu adicionei no usando o site do GitHub
 
+Adicionei esse comentário como teste para fazer o Commit do projeto
